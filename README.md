@@ -1,6 +1,6 @@
-#Top-level heading
-##Subheading
-###Subheading of a Subheading
+# Top-level heading
+## Subheading
+### Subheading of a Subheading
 
 Underlined Top-level heading
 ===============================
